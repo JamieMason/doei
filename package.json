@@ -1,0 +1,15 @@
+{
+  "name": "doei",
+  "description": "",
+  "version": "0.0.0",
+  "author": "Jamie Mason <jamie@foldleft.io> (https://github.com/JamieMason)",
+  "bugs": "https://github.com/JamieMason/doei/issues",
+  "homepage": "https://github.com/JamieMason/doei#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "JamieMason/doei.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
